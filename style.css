@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#content{
+    width: 650px;
+    height: 650px;
+}
+
+#content_dos{
+    width: 650px;
+    height: 650px;
+}
+
+#content_tres{
+    width: 650px;
+    height: 650px;
+}
